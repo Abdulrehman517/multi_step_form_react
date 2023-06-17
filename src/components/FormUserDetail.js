@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { Button, TextField } from "@mui/material";
 import AppBar from "@mui/material/AppBar";
-import MenuIcon from "@mui/icons-material/Menu";
 
 export class FormUserDetail extends Component {
   continue = (e) => {

@@ -2,7 +2,6 @@ import React, { Component } from "react";
 
 import AppBar from "@mui/material/AppBar";
 
-import MenuIcon from "@mui/icons-material/Menu";
 import { Typography } from "@mui/material";
 
 export class Success extends Component {

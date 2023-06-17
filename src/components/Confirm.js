@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Button, Grid, Paper } from "@mui/material";
+import { Button, Grid } from "@mui/material";
 import AppBar from "@mui/material/AppBar";
 
 import List from "@mui/material/List";
