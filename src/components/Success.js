@@ -10,7 +10,7 @@ export class Success extends Component {
       <>
         <AppBar
           position="static"
-          style={{ display: "flex", alignItems: "center", height: "3rem" }}
+          style={{ display: "flex", alignItems: "center", height: "3rem", justifyContent:"center" }}
         >
           Success
         </AppBar>
